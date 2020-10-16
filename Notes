@@ -1,0 +1,3 @@
+Number of diff bits in two numbers=    if the original two numbers are X and Y , 
+then the number of different bits would be equal to the number of ones in the number X  xor  Y , 
+where xor is the exclusive or operation.
